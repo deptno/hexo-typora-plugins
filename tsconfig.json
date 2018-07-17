@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "esnext",
+    "removeComments": true,
+    "outDir": "dist",
+    "declaration": true,
+    "lib": [
+      "es2017",
+      "dom",
+      "esnext.asynciterable"
+    ]
+  },
+  "exclude": [
+    "**/*.spec.ts"
+  ]
+}
