@@ -1,0 +1,4 @@
+*.ts
+*.md
+coverage/
+!*.d.ts
