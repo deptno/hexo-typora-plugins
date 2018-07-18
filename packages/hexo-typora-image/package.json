@@ -1,9 +1,10 @@
 {
   "name": "hexo-typora-image",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "adjust hexo typora image path for publish",
   "main": "index.js",
   "repository": "https://github.com/deptno/hexo-typora-plugins.git",
   "author": "Bonggyun Lee <deptno@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "gitHead": "763f296c06903398956c4e827eba2201dc75dcec"
 }
