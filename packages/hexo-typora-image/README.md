@@ -1,4 +1,5 @@
 # hexo-typora-image
+[![npm](https://img.shields.io/npm/dt/hexo-typora-image.svg?style=for-the-badge)](https://www.npmjs.com/package/hexo-typora-image)
 
 ## What hexo-typora-image solve?
 
